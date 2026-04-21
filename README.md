@@ -52,7 +52,7 @@ ai-chat-agent/
 │   ├── src/App.js
 │   └── package.json
 │
-└── README.md
+├── README.md
 ```
 
 ---
